@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.custom-modal .modal-dialog {
+  max-width: 800px;
+  width: 100%;
+}
+.custom-modal .modal-content {
+  display: flex;
+  flex-direction: column;
+  border: solid;
+}
